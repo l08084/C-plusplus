@@ -8,13 +8,9 @@ int main()
 
     cout << "x,yを加算します。\n";
 
-    cout << "xの値:";
+    cout << "xとyの値:";
 
-    cin >> x;
-
-    cout << "yの値：";
-
-    cin >> y;
+    cin >> x >> y;
 
     cout << "x+y:" << x + y << "。\n";
 }
