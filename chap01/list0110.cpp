@@ -6,7 +6,7 @@ int main()
 {
     int x, y;
 
-    cout << "x,yを加算します。\n";
+    cout << "xとyを加算します。\n";
 
     cout << "xとyの値:";
 
